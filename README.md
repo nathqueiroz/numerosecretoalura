@@ -1,4 +1,4 @@
-<h1 align="center"> :diving_mask: Número Secreto - O jogo  </h1>
+<h1 align="center"> :dart: Número Secreto - O jogo  </h1>
  
  <h2> :grey_question: Sobre o projeto </h2>
  
